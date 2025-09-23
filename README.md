@@ -34,4 +34,8 @@ Contribuições são sempre bem-vindas! Se você tiver alguma ideia ou encontrar
 
 ## Autor
 
-**[Felipe goguelin de mello]** - [Link para seu GitHub](https://github.com/felipe-goguelin)
+**Felipe goguelin de mello** 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipe-goguelin)
+
+
+
